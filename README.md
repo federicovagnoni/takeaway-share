@@ -1,9 +1,9 @@
 # Takeaway Share
 
-So, you ordered by takeaway and decided to pay cash. The rider has arrived and you forgot to prepare the money.
-A couple friend go to the door with the cash they have and pay the order to the rider.
+You ordered by takeaway and decided to pay by cash. The times passes while you play and suddenly the rider arrives and you forgot to prepare the cash.
+A couple of friends go to the door with the cash they have at the moment and pay the order to the rider.
 
-Nice. So now how determine how much you have to give to who?
+So, now how do you know how much you have to give to who and how much those friends have to get back?
 
 ---
 
